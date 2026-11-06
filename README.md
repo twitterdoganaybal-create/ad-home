@@ -4,7 +4,7 @@ Tam ekran, koyu temalı, kartlı bir **Home Assistant** dashboard'u. Odalarını
 
 *Full-screen dark smart-home dashboard for Home Assistant, with a little cat walking on your cards. English below.*
 
-![AD HOME tablet](images/tablet.jpg)
+![AD HOME tablet](https://raw.githubusercontent.com/twitterdoganaybal-create/ad-home/main/images/tablet.jpg)
 
 ## Özellikler
 
@@ -84,7 +84,7 @@ strategy:
 
 All options from the Turkish section above work the same (`cat_color`: `gri` grey, `siyah` black, `turuncu` orange, `beyaz` white).
 
-![AD HOME phone](images/phone.jpg)
+![AD HOME phone](https://raw.githubusercontent.com/twitterdoganaybal-create/ad-home/main/images/phone.jpg)
 
 ## Lisans / License
 
