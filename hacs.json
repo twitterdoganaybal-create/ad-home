@@ -1,0 +1,7 @@
+{
+  "name": "AD HOME",
+  "filename": "ad-home.js",
+  "content_in_root": true,
+  "render_readme": true,
+  "homeassistant": "2024.4.0"
+}
